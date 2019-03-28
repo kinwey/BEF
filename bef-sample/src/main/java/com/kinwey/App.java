@@ -1,7 +1,7 @@
 package com.kinwey;
 
 /**
- * test
+ * test2
  *
  */
 public class App 
