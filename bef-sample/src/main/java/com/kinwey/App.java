@@ -1,7 +1,7 @@
 package com.kinwey;
 
 /**
- * Hello world!
+ * test
  *
  */
 public class App 
